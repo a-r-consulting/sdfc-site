@@ -32,8 +32,9 @@ We offer three primary engagement models for technical hiring:
 **Company Number:** 13208126 (England & Wales)
 
 * **Consultation Inquiries:** 📧 (mailto:info@sdfcservices.com)
-* **Security Research:** 📝 [Medium Blog (@I_AM_R00T)](https://medium.com/@I_AM_R00T)
+* **Stories:** 📝 [Medium Blog (@I_AM_R00T)](https://medium.com/@I_AM_R00T)
 
 ---
 
 *© 2025 Steel Defence Freelance & Consulting Ltd. All Rights Reserved.*
+
